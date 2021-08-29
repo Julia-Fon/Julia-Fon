@@ -25,4 +25,4 @@ Olá! Eu sou a Julia
     
 </div>
 
-![Snake animation](https://github.com/Julia-Fon/Julia-Fon/blob/output/github/workflows/main.yml) 
+![Snake animation](https://github.com/Julia-Fon/Julia-Fon/blob/output/github-crontribution-grid-snake.svg) 
