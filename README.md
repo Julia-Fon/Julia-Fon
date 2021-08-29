@@ -13,9 +13,16 @@ Olá! Eu sou a Julia
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Fon&layout=compact&langs_counts=16&theme=synthwave" />
 </div>
 
-##
+<div>
+  <img align="right" alt="Juh-perfil" src="file:///home/julia/Imagens/logo.png">
+  </div>
+  
+🌻 🌻 
 
 <div>
   <a href="linkedin.com/in/juliafonseca-1618" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
     
 </div>
+
+![Snake animation](  )
