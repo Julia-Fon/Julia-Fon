@@ -1,4 +1,4 @@
-### OLá! eu sou a Julia
+Olá! Eu sou a Julia
 
 - 🔭 Atualmente não estou trabalhando.
 - 🌱 Aprendendo HTML, CSS e JavaScript.
