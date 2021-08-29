@@ -17,7 +17,7 @@ Olá! Eu sou a Julia
   ## 🌻 🌻 
  
 <div> 
-  <a href="https://www.linkedin.com/in/juliafonseca-1618" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="juliafonseca-1618" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/juliafonseca-1618?trk=profile-badge">Julia Carolaine Marengo Fonseca</a>
  
   ![Snake animation](https://github.com/Julia-Fon/Julia-Fon/blob/output/github-contribution-grid-snake.svg)
  
