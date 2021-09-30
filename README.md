@@ -4,7 +4,6 @@ Olá! Eu sou a Julia
 - 🌱 Aprendendo HTML, CSS e JavaScript.
 - 👍 Toda ajuda é bem-vinda.
 - 📫 E-mail: carolaine.fon@outlook.com
-- 😄 Pronomes: ela
 
 
  <div>
