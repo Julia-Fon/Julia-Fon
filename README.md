@@ -9,7 +9,7 @@ Olá! Eu sou a Julia
  <div>
   <a href="https://github.com/Julia-Fon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-fon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-fon&layout=compact) (https://github.com/julia-fon/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-fon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-fon&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
