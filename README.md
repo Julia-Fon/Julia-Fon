@@ -8,11 +8,11 @@ Olá! Eu sou a Julia
 
 
   <a href="https://github.com/Julia-Fon">
-  <img aling="center" src="https://github-readme-stats.vercel.app/api?username=julia-fon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
+  <img width="49%" aling="center" src="https://github-readme-stats.vercel.app/api?username=julia-fon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
    </a>
  
    <a href="https://github.com/julia-fon/convoychat">
-  <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-fon&layout=compact&langs_count=7&theme=synthwave"/>
+  <img width="49%" aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-fon&layout=compact&langs_count=7&theme=synthwave"/>
  </a>
 
   ## 🌻 🌻 
