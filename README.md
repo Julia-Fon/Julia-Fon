@@ -6,12 +6,14 @@ Olá! Eu sou a Julia
 - 📫 E-mail: carolaine.fon@outlook.com
 
 
- <div>
+
   <a href="https://github.com/Julia-Fon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-fon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
-   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-fon&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+  <img aling="center" src="https://github-readme-stats.vercel.app/api?username=julia-fon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
+   </a>
+ 
+   <a href="https://github.com/julia-fon/convoychat">
+  <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-fon&layout=compact&langs_count=7&theme=synthwave"/>
+ </a>
 
   ## 🌻 🌻 
  
